@@ -1,0 +1,719 @@
+"Rating","Size","Type.of.ownership","Industry","Sector","Revenue","Job.Category","Company.type","Headquarters.Flag","Avg.Salary"
+"3.8","501 to 1000 employees","Company - Private","Aerospace & Defense","Aerospace & Defense","$50 to $100 million (USD)","Scientist","Middle-age firm",FALSE,72
+"3.4","10000+ employees","Other Organization","Health Care Services & Hospitals","Health Care","$2 to $5 billion (USD)","Scientist","Middle-age firm",FALSE,87.5
+"4.8","501 to 1000 employees","Company - Private","Security Services","Business Services","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,85
+"3.8","1001 to 5000 employees","Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","Scientist","Traditional firm",TRUE,76.5
+"2.9","51 to 200 employees","Company - Private","Advertising & Marketing","Business Services","-1","Scientist","Middle-age firm",TRUE,114.5
+"3.4","201 to 500 employees","Company - Public","Real Estate","Real Estate","$1 to $2 billion (USD)","Scientist","Middle-age firm",TRUE,95
+"4.1","501 to 1000 employees","Company - Private","Banks & Credit Unions","Finance","-1","Scientist","Middle-age firm",TRUE,73.5
+"3.8","201 to 500 employees","Company - Private","Consulting","Business Services","$25 to $50 million (USD)","Scientist","Middle-age firm",FALSE,114
+"3.3","10000+ employees","Hospital","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","Scientist","Middle-age firm",TRUE,61
+"4.6","51 to 200 employees","Company - Private","Internet","Information Technology","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,140
+"3.5","501 to 1000 employees","Company - Private","Other Retail Stores","Retail","$1 to $2 billion (USD)","Scientist","Middle-age firm",FALSE,163.5
+"4.1","5001 to 10000 employees","Company - Public","Research & Development","Business Services","$1 to $2 billion (USD)","Scientist","Traditional firm",FALSE,85
+"3.2","10000+ employees","Company - Public","Department, Clothing, & Shoe Stores","Retail","$10+ billion (USD)","Scientist","Traditional firm",FALSE,139
+"4.1","201 to 500 employees","Company - Private","Advertising & Marketing","Business Services","-1","Analyst","Middle-age firm",TRUE,65.5
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,113.5
+"3.6","1001 to 5000 employees","Subsidiary or Business Segment","Motion Picture Production & Distribution","Media","-1","Engineer","Middle-age firm",TRUE,146
+"3.9","51 to 200 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $5 million (USD)","Scientist","Middle-age firm",TRUE,102
+"4.3","201 to 500 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Scientist","Middle-age firm",TRUE,153.5
+"4.2","51 to 200 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Analyst","Middle-age firm",TRUE,142.5
+"4","501 to 1000 employees","Nonprofit Organization","Insurance Carriers","Insurance","$500 million to $1 billion (USD)","Scientist","Traditional firm",TRUE,87.5
+"3.2","201 to 500 employees","Company - Private","Internet","Information Technology","-1","Scientist","Middle-age firm",TRUE,105.5
+"3.9","201 to 500 employees","Company - Private","Insurance Agencies & Brokerages","Insurance","-1","Senior","Middle-age firm",FALSE,96
+"3.8","501 to 1000 employees","Company - Private","Logistics & Supply Chain","Transportation & Logistics","-1","Scientist","Middle-age firm",FALSE,112.5
+"4.3","51 to 200 employees","Nonprofit Organization","Logistics & Supply Chain","Transportation & Logistics","$10 to $25 million (USD)","Scientist","Traditional firm",FALSE,84
+"4","501 to 1000 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","Scientist","Middle-age firm",FALSE,143
+"4","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,86.5
+"3.5","1001 to 5000 employees","Company - Private","Banks & Credit Unions","Finance","$100 to $500 million (USD)","Scientist","Traditional firm",FALSE,99.5
+"3.7","5001 to 10000 employees","Company - Public","Insurance Carriers","Insurance","$5 to $10 billion (USD)","Analyst","Traditional firm",TRUE,47.5
+"4","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,84
+"4.8","501 to 1000 employees","Company - Private","Security Services","Business Services","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,85
+"3.8","1001 to 5000 employees","Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","Scientist","Traditional firm",TRUE,76.5
+"3.6","1001 to 5000 employees","Company - Private","Real Estate","Real Estate","$500 million to $1 billion (USD)","Scientist","Middle-age firm",TRUE,96
+"3.8","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Middle-age firm",FALSE,114.5
+"3.8","5001 to 10000 employees","Company - Public","Telecommunications Services","Telecommunications","$2 to $5 billion (USD)","Scientist","Middle-age firm",TRUE,121
+"4.7","201 to 500 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Scientist","Middle-age firm",TRUE,112.5
+"4.2","201 to 500 employees","Company - Private","IT Services","Information Technology","-1","Analyst","Middle-age firm",FALSE,106
+"3.5","1001 to 5000 employees","Company - Private","Computer Hardware & Software","Information Technology","$1 to $2 billion (USD)","Scientist","Middle-age firm",TRUE,107
+"4.7","201 to 500 employees","Company - Private","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,110
+"3.5","5001 to 10000 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $2 billion (USD)","Senior","Traditional firm",FALSE,147.5
+"3.5","201 to 500 employees","Company - Private","Insurance Carriers","Insurance","$100 to $500 million (USD)","Engineer","Middle-age firm",TRUE,106
+"4.2","201 to 500 employees","Company - Private","IT Services","Information Technology","$50 to $100 million (USD)","Analyst","Middle-age firm",TRUE,88
+"3.6","1 to 50 employees","Company - Private","-1","-1","Less than $1 million (USD)","Engineer","Traditional firm",FALSE,98.5
+"4.2","51 to 200 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Scientist","Middle-age firm",TRUE,142.5
+"3.4","5001 to 10000 employees","Company - Public","Consumer Products Manufacturing","Manufacturing","$2 to $5 billion (USD)","Scientist","New firm",FALSE,82.5
+"4.3","1001 to 5000 employees","Company - Public","Real Estate","Real Estate","$2 to $5 billion (USD)","Senior","Middle-age firm",TRUE,130
+"5","-1","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Scientist","Traditional firm",FALSE,155
+"3.7","10000+ employees","Company - Public","IT Services","Information Technology","$10+ billion (USD)","Scientist","Traditional firm",FALSE,184.5
+"3.1","5001 to 10000 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","$2 to $5 billion (USD)","Analyst","Middle-age firm",FALSE,29.5
+"4.7","501 to 1000 employees","Company - Private","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","Engineer","Middle-age firm",FALSE,86.5
+"3.7","10000+ employees","Company - Public","Industrial Manufacturing","Manufacturing","$10+ billion (USD)","Scientist","Traditional firm",FALSE,81
+"3.8","501 to 1000 employees","Subsidiary or Business Segment","Advertising & Marketing","Business Services","-1","Scientist","Middle-age firm",TRUE,91
+"3.3","10000+ employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Scientist","Traditional firm",TRUE,114.5
+"4.6","1001 to 5000 employees","Company - Private","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,68
+"3.7","10000+ employees","Company - Public","Insurance Agencies & Brokerages","Insurance","$10+ billion (USD)","Scientist","Traditional firm",FALSE,115
+"3.7","10000+ employees","Company - Public","Aerospace & Defense","Aerospace & Defense","$10+ billion (USD)","Scientist","Traditional firm",FALSE,109.5
+"3.5","5001 to 10000 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $2 billion (USD)","Scientist","Traditional firm",FALSE,75.5
+"4.1","501 to 1000 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Scientist","Middle-age firm",FALSE,154.5
+"4.7","51 to 200 employees","Company - Private","IT Services","Information Technology","-1","Scientist","New firm",TRUE,143.5
+"4.1","501 to 1000 employees","Company - Private","Banks & Credit Unions","Finance","-1","Scientist","Middle-age firm",TRUE,73.5
+"3.4","201 to 500 employees","Company - Public","Real Estate","Real Estate","$1 to $2 billion (USD)","Scientist","Middle-age firm",TRUE,95
+"4.4","201 to 500 employees","Subsidiary or Business Segment","Metals Brokers","Mining & Metals","-1","Senior","Traditional firm",TRUE,107
+"4.3","201 to 500 employees","Company - Private","Consulting","Business Services","$10 to $25 million (USD)","Scientist","Middle-age firm",TRUE,115
+"3.8","501 to 1000 employees","Company - Public","Financial Transaction Processing","Finance","$50 to $100 million (USD)","Senior","Middle-age firm",TRUE,139.5
+"3.8","1001 to 5000 employees","Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","Scientist","Traditional firm",TRUE,67
+"3.8","10000+ employees","Company - Public","Sporting Goods Stores","Retail","$5 to $10 billion (USD)","Scientist","Traditional firm",TRUE,85
+"2.8","51 to 200 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $5 million (USD)","Scientist","Middle-age firm",TRUE,118
+"4.7","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","$25 to $50 million (USD)","Scientist","Middle-age firm",TRUE,79.5
+"3.1","201 to 500 employees","Company - Public","Advertising & Marketing","Business Services","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,56.5
+"3.2","1 to 50 employees","Company - Private","Staffing & Outsourcing","Business Services","$5 to $10 million (USD)","Scientist","Traditional firm",FALSE,128.5
+"4","10000+ employees","Company - Public","Computer Hardware & Software","Information Technology","-1","Scientist","Traditional firm",FALSE,97.5
+"4.4","1 to 50 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Analyst","New firm",FALSE,66.5
+"3.6","10000+ employees","Company - Public","Wholesale","Business Services","$10+ billion (USD)","Manager","Traditional firm",TRUE,179.5
+"2.7","501 to 1000 employees","Subsidiary or Business Segment","Research & Development","Business Services","$50 to $100 million (USD)","Scientist","Middle-age firm",FALSE,76
+"3.9","501 to 1000 employees","Company - Private","IT Services","Information Technology","$100 to $500 million (USD)","Senior","Middle-age firm",FALSE,112
+"3.1","1001 to 5000 employees","Company - Private","Mining","Mining & Metals","$1 to $2 billion (USD)","Scientist","Traditional firm",FALSE,98
+"4","10000+ employees","Company - Public","Computer Hardware & Software","Information Technology","-1","Senior","Traditional firm",FALSE,128
+"4.3","201 to 500 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Engineer","Middle-age firm",TRUE,150.5
+"1.9","51 to 200 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10 to $25 million (USD)","Scientist","Middle-age firm",TRUE,87.5
+"3.3","1001 to 5000 employees","Company - Private","Aerospace & Defense","Aerospace & Defense","$1 to $2 billion (USD)","Scientist","New firm",FALSE,110
+"4.4","10000+ employees","Company - Private","IT Services","Information Technology","$500 million to $1 billion (USD)","Scientist","Middle-age firm",FALSE,113.5
+"3.9","51 to 200 employees","Company - Private","Health Care Services & Hospitals","Health Care","$1 to $5 million (USD)","Scientist","New firm",TRUE,124
+"4.7","201 to 500 employees","Company - Private","Advertising & Marketing","Business Services","$25 to $50 million (USD)","Analyst","Middle-age firm",TRUE,56.5
+"4.5","5001 to 10000 employees","Nonprofit Organization","Aerospace & Defense","Aerospace & Defense","$1 to $2 billion (USD)","Scientist","Traditional firm",TRUE,130
+"4.3","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","$10 to $25 million (USD)","Analyst","Middle-age firm",TRUE,77.5
+"4","201 to 500 employees","Company - Private","Consulting","Business Services","$50 to $100 million (USD)","Engineer","Middle-age firm",TRUE,87
+"4.4","501 to 1000 employees","Company - Private","Wholesale","Business Services","$100 to $500 million (USD)","Analyst","Traditional firm",TRUE,53.5
+"3.2","10000+ employees","Company - Public","Department, Clothing, & Shoe Stores","Retail","$10+ billion (USD)","Scientist","Traditional firm",FALSE,139
+"3.8","201 to 500 employees","Company - Private","Consulting","Business Services","$25 to $50 million (USD)","Scientist","Middle-age firm",FALSE,114
+"4.2","501 to 1000 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,85.5
+"4.5","51 to 200 employees","Company - Private","IT Services","Information Technology","$25 to $50 million (USD)","Scientist","Middle-age firm",FALSE,48
+"3.5","51 to 200 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Analyst","Middle-age firm",TRUE,48
+"3.5","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","Senior","Middle-age firm",TRUE,174
+"3.9","5001 to 10000 employees","Company - Public","Financial Analytics & Research","Finance","$1 to $2 billion (USD)","Scientist","Traditional firm",FALSE,85
+"4.7","51 to 200 employees","Company - Private","IT Services","Information Technology","$10 to $25 million (USD)","Scientist","Middle-age firm",FALSE,106.5
+"4.2","1001 to 5000 employees","Company - Private","IT Services","Information Technology","$100 to $500 million (USD)","Analyst","Middle-age firm",FALSE,72.5
+"3.4","10000+ employees","Subsidiary or Business Segment","IT Services","Information Technology","$10+ billion (USD)","Scientist","Middle-age firm",FALSE,85.5
+"3.2","5001 to 10000 employees","Nonprofit Organization","Federal Agencies","Government","$1 to $2 billion (USD)","Scientist","Traditional firm",FALSE,97.5
+"3.9","501 to 1000 employees","Company - Private","IT Services","Information Technology","$100 to $500 million (USD)","Scientist","Middle-age firm",FALSE,99
+"3.1","1001 to 5000 employees","Company - Private","Insurance Carriers","Insurance","$2 to $5 billion (USD)","Analyst","Middle-age firm",FALSE,56.5
+"4.1","1 to 50 employees","Company - Private","IT Services","Information Technology","-1","Scientist","Middle-age firm",TRUE,133
+"3.8","51 to 200 employees","Company - Private","Research & Development","Business Services","-1","Scientist","Middle-age firm",TRUE,121
+"4.7","501 to 1000 employees","Company - Private","Security Services","Business Services","-1","Scientist","Middle-age firm",TRUE,85.5
+"4.3","1001 to 5000 employees","Subsidiary or Business Segment","Education Training Services","Education","-1","Scientist","New firm",FALSE,87.5
+"4.2","1001 to 5000 employees","Company - Private","Consulting","Business Services","-1","Senior","Traditional firm",TRUE,237.5
+"3.9","1001 to 5000 employees","Company - Private","IT Services","Information Technology","$100 to $500 million (USD)","Engineer","Middle-age firm",FALSE,95.5
+"3.3","10000+ employees","Company - Public","Transportation Equipment Manufacturing","Manufacturing","$5 to $10 billion (USD)","Senior","Middle-age firm",FALSE,104.5
+"4.7","201 to 500 employees","Company - Private","Computer Hardware & Software","Information Technology","-1","Analyst","Middle-age firm",FALSE,56.5
+"4.3","201 to 500 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","$25 to $50 million (USD)","Senior","Middle-age firm",TRUE,55
+"2.9","1001 to 5000 employees","Hospital","Health Care Services & Hospitals","Health Care","-1","Scientist","Middle-age firm",TRUE,61.5
+"4.5","201 to 500 employees","Company - Private","Computer Hardware & Software","Information Technology","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,157
+"3.4","201 to 500 employees","Company - Private","Internet","Information Technology","-1","Engineer","New firm",TRUE,78
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,113.5
+"4.6","51 to 200 employees","Company - Private","Internet","Information Technology","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,140
+"3.2","51 to 200 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Scientist","New firm",TRUE,132.5
+"4","5001 to 10000 employees","Company - Public","Computer Hardware & Software","Information Technology","$2 to $5 billion (USD)","Engineer","Middle-age firm",FALSE,108
+"4.6","501 to 1000 employees","Company - Private","Farm Support Services","Agriculture & Forestry","$50 to $100 million (USD)","Scientist","Traditional firm",TRUE,80.5
+"2.8","201 to 500 employees","Company - Private","Health Care Services & Hospitals","Health Care","-1","Scientist","Middle-age firm",TRUE,107.5
+"4.7","51 to 200 employees","Company - Private","Consulting","Business Services","$25 to $50 million (USD)","Engineer","Middle-age firm",TRUE,95
+"3","1001 to 5000 employees","Nonprofit Organization","Health Care Services & Hospitals","Health Care","-1","Scientist","Middle-age firm",TRUE,119.5
+"3.2","1001 to 5000 employees","Company - Private","Advertising & Marketing","Business Services","$1 to $2 billion (USD)","Engineer","Middle-age firm",FALSE,134
+"4.4","201 to 500 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Scientist","Middle-age firm",TRUE,100.5
+"3.5","1001 to 5000 employees","Company - Public","TV Broadcast & Cable Networks","Media","$500 million to $1 billion (USD)","Scientist","Traditional firm",TRUE,107.5
+"4","51 to 200 employees","Company - Private","Internet","Information Technology","-1","Engineer","New firm",TRUE,122
+"4.3","1001 to 5000 employees","Company - Public","Real Estate","Real Estate","$2 to $5 billion (USD)","Engineer","Middle-age firm",TRUE,92.5
+"2.3","501 to 1000 employees","Company - Private","Research & Development","Business Services","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,62
+"4","51 to 200 employees","-1","Architectural & Engineering Services","Business Services","$25 to $50 million (USD)","Scientist","Middle-age firm",FALSE,39.5
+"3.6","1001 to 5000 employees","Company - Private","Industrial Manufacturing","Manufacturing","$100 to $500 million (USD)","Scientist","Traditional firm",FALSE,107.5
+"3.8","501 to 1000 employees","Company - Private","Staffing & Outsourcing","Business Services","-1","Manager","New firm",TRUE,40.5
+"3.7","10000+ employees","Company - Public","IT Services","Information Technology","$10+ billion (USD)","Engineer","Traditional firm",FALSE,89.5
+"4.4","201 to 500 employees","Company - Private","Consulting","Business Services","$50 to $100 million (USD)","Scientist","Middle-age firm",TRUE,81
+"4","501 to 1000 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","Senior","Middle-age firm",FALSE,147
+"3.2","1001 to 5000 employees","Company - Private","Brokerage Services","Finance","$100 to $500 million (USD)","Scientist","Traditional firm",TRUE,85
+"2.9","1001 to 5000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$1 to $2 billion (USD)","Scientist","Middle-age firm",FALSE,81.5
+"3.8","1001 to 5000 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$500 million to $1 billion (USD)","Scientist","Middle-age firm",FALSE,168
+"4.3","1 to 50 employees","Company - Private","Aerospace & Defense","Aerospace & Defense","-1","Scientist","Middle-age firm",TRUE,100.5
+"3.4","1001 to 5000 employees","Company - Private","Consulting","Business Services","$100 to $500 million (USD)","Engineer","Traditional firm",FALSE,97
+"4.1","5001 to 10000 employees","Company - Public","Research & Development","Business Services","$1 to $2 billion (USD)","Scientist","Traditional firm",FALSE,85
+"4.3","201 to 500 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Scientist","Middle-age firm",TRUE,153.5
+"5","51 to 200 employees","Company - Private","IT Services","Information Technology","-1","Engineer","New firm",FALSE,132.5
+"4.3","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","$10 to $25 million (USD)","Engineer","Middle-age firm",TRUE,100
+"3.7","201 to 500 employees","Company - Private","Travel Agencies","Travel & Tourism","-1","Senior","Middle-age firm",TRUE,105
+"4.2","10000+ employees","Nonprofit Organization","Religious Organizations","Non-Profit","-1","Engineer","Traditional firm",FALSE,87
+"4.3","51 to 200 employees","Company - Private","Real Estate","Real Estate","-1","Analyst","Middle-age firm",TRUE,103.5
+"2.6","501 to 1000 employees","College / University","Colleges & Universities","Education","-1","Senior","Middle-age firm",TRUE,124
+"3.8","1001 to 5000 employees","Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","Scientist","Traditional firm",TRUE,67
+"3.9","10000+ employees","Company - Private","IT Services","Information Technology","$2 to $5 billion (USD)","Engineer","Middle-age firm",FALSE,87
+"4.3","201 to 500 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Engineer","Middle-age firm",FALSE,137.5
+"3.8","201 to 500 employees","Company - Private","Advertising & Marketing","Business Services","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,100
+"3.8","5001 to 10000 employees","Nonprofit Organization","Insurance Carriers","Insurance","$5 to $10 billion (USD)","Engineer","Traditional firm",TRUE,106.5
+"3.8","1001 to 5000 employees","Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","Senior","Traditional firm",TRUE,98.5
+"4.8","501 to 1000 employees","Company - Private","Security Services","Business Services","$100 to $500 million (USD)","Senior","Middle-age firm",TRUE,61
+"4.4","51 to 200 employees","Company - Private","Consulting","Business Services","-1","Engineer","Middle-age firm",TRUE,106.5
+"3.9","51 to 200 employees","Company - Private","Internet","Information Technology","-1","Engineer","Middle-age firm",TRUE,84.5
+"3.4","1001 to 5000 employees","Company - Public","Consumer Products Manufacturing","Manufacturing","$2 to $5 billion (USD)","Manager","Traditional firm",TRUE,109.5
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Scientist","Traditional firm",FALSE,164
+"3.9","10000+ employees","Subsidiary or Business Segment","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Middle-age firm",TRUE,169
+"3.8","5001 to 10000 employees","Company - Public","Telecommunications Services","Telecommunications","$2 to $5 billion (USD)","Senior","Middle-age firm",FALSE,142
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,76.5
+"3.8","501 to 1000 employees","Company - Private","Insurance Carriers","Insurance","$500 million to $1 billion (USD)","Scientist","Middle-age firm",TRUE,107
+"3.5","10000+ employees","Company - Public","Computer Hardware & Software","Information Technology","$10+ billion (USD)","Scientist","Middle-age firm",TRUE,171.5
+"3.9","201 to 500 employees","Company - Private","Insurance Agencies & Brokerages","Insurance","-1","Senior","Middle-age firm",FALSE,96
+"4.2","51 to 200 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Analyst","Middle-age firm",TRUE,142.5
+"4.2","10000+ employees","Nonprofit Organization","Religious Organizations","Non-Profit","-1","Engineer","Traditional firm",FALSE,107
+"3.5","1001 to 5000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $2 billion (USD)","Senior","Middle-age firm",TRUE,145
+"2.9","201 to 500 employees","Nonprofit Organization","Colleges & Universities","Education","$25 to $50 million (USD)","Senior","Middle-age firm",TRUE,61.5
+"2.7","51 to 200 employees","Government","Investment Banking & Asset Management","Finance","$50 to $100 million (USD)","Analyst","Traditional firm",TRUE,120
+"4.4","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,62
+"4","5001 to 10000 employees","Company - Public","Computer Hardware & Software","Information Technology","$2 to $5 billion (USD)","Senior","Middle-age firm",FALSE,150.5
+"4.3","201 to 500 employees","Company - Private","Advertising & Marketing","Business Services","-1","Manager","Traditional firm",FALSE,87.5
+"4.2","51 to 200 employees","Company - Public","Advertising & Marketing","Business Services","$25 to $50 million (USD)","Engineer","Middle-age firm",TRUE,71.5
+"3.6","51 to 200 employees","Subsidiary or Business Segment","Department, Clothing, & Shoe Stores","Retail","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,51.5
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Traditional firm",FALSE,151.5
+"2.8","201 to 500 employees","Company - Private","IT Services","Information Technology","-1","Senior","Middle-age firm",TRUE,77.5
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,140
+"3.3","1001 to 5000 employees","Company - Private","Insurance Carriers","Insurance","$10 to $25 million (USD)","Senior","Middle-age firm",FALSE,98.5
+"-1","51 to 200 employees","Company - Private","IT Services","Information Technology","$5 to $10 million (USD)","Scientist","New firm",FALSE,225
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Traditional firm",FALSE,161.5
+"3.4","1001 to 5000 employees","Company - Public","Insurance Carriers","Insurance","$1 to $2 billion (USD)","Senior","Traditional firm",FALSE,147
+"4.1","501 to 1000 employees","Company - Private","Energy","Oil, Gas, Energy & Utilities","$1 to $2 billion (USD)","Analyst","Traditional firm",TRUE,61
+"2.6","501 to 1000 employees","College / University","Colleges & Universities","Education","-1","Scientist","Middle-age firm",TRUE,120
+"3.2","1001 to 5000 employees","Company - Public","Lending","Finance","$500 million to $1 billion (USD)","Scientist","Middle-age firm",FALSE,124.5
+"3.9","51 to 200 employees","Company - Private","Financial Analytics & Research","Finance","$50 to $100 million (USD)","Senior","Middle-age firm",TRUE,148
+"4.7","51 to 200 employees","Company - Private","Aerospace & Defense","Aerospace & Defense","$25 to $50 million (USD)","Analyst","Middle-age firm",FALSE,59
+"3.7","5001 to 10000 employees","Company - Public","Insurance Carriers","Insurance","$5 to $10 billion (USD)","Scientist","Traditional firm",TRUE,146.5
+"2.9","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Scientist","Traditional firm",TRUE,91.5
+"3","501 to 1000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Senior","New firm",TRUE,133
+"4.7","51 to 200 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $5 million (USD)","Scientist","Middle-age firm",TRUE,140.5
+"3.7","501 to 1000 employees","Company - Private","Computer Hardware & Software","Information Technology","-1","Engineer","Traditional firm",FALSE,70.5
+"3.3","10000+ employees","Hospital","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","Scientist","Middle-age firm",TRUE,84.5
+"4","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","$5 to $10 million (USD)","Engineer","Middle-age firm",TRUE,93.5
+"4.4","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","Senior","Middle-age firm",TRUE,134.5
+"3.9","201 to 500 employees","Company - Private","Internet","Information Technology","$10 to $25 million (USD)","Scientist","Middle-age firm",TRUE,181
+"3.3","10000+ employees","Hospital","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","Scientist","Middle-age firm",TRUE,84.5
+"4.1","51 to 200 employees","Company - Private","Internet","Information Technology","$50 to $100 million (USD)","Engineer","Middle-age firm",TRUE,205
+"3.6","1001 to 5000 employees","Company - Private","Gambling","Arts, Entertainment & Recreation","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,48.5
+"2.4","501 to 1000 employees","Company - Private","Food & Beverage Manufacturing","Manufacturing","$100 to $500 million (USD)","Scientist","Traditional firm",FALSE,52.5
+"2.6","501 to 1000 employees","College / University","Colleges & Universities","Education","-1","Senior","Middle-age firm",TRUE,124
+"3.5","501 to 1000 employees","Nonprofit Organization","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","Manager","Middle-age firm",TRUE,64
+"3","10000+ employees","Company - Private","Gas Stations","Retail","$10+ billion (USD)","Engineer","Traditional firm",TRUE,98
+"3.3","501 to 1000 employees","Company - Private","Food & Beverage Manufacturing","Manufacturing","-1","Scientist","Traditional firm",TRUE,54
+"2.7","201 to 500 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$25 to $50 million (USD)","Scientist","Traditional firm",TRUE,81
+"3.4","1001 to 5000 employees","Company - Public","Transportation Management","Transportation & Logistics","$2 to $5 billion (USD)","Engineer","Middle-age firm",TRUE,107.5
+"3.8","501 to 1000 employees","Company - Private","Logistics & Supply Chain","Transportation & Logistics","-1","Scientist","Middle-age firm",FALSE,112.5
+"3.7","10000+ employees","Company - Public","Aerospace & Defense","Aerospace & Defense","$10+ billion (USD)","Scientist","Middle-age firm",FALSE,89
+"4.8","1001 to 5000 employees","Company - Private","Insurance Carriers","Insurance","$1 to $2 billion (USD)","Senior","Traditional firm",TRUE,100.5
+"3.8","1001 to 5000 employees","Company - Private","Travel Agencies","Travel & Tourism","$2 to $5 billion (USD)","Analyst","Middle-age firm",TRUE,65
+"4.3","201 to 500 employees","Subsidiary or Business Segment","Consulting","Business Services","-1","Scientist","Middle-age firm",TRUE,72.5
+"4.8","501 to 1000 employees","Company - Private","Security Services","Business Services","$100 to $500 million (USD)","Senior","Middle-age firm",TRUE,61
+"3.4","1001 to 5000 employees","Company - Public","Consumer Products Manufacturing","Manufacturing","$2 to $5 billion (USD)","Manager","Traditional firm",TRUE,109.5
+"3.9","51 to 200 employees","Company - Private","Internet","Information Technology","-1","Engineer","Middle-age firm",TRUE,84.5
+"3.4","51 to 200 employees","Company - Private","Advertising & Marketing","Business Services","$10 to $25 million (USD)","Scientist","Middle-age firm",TRUE,87.5
+"3.1","1001 to 5000 employees","Company - Public","Video Games","Media","$10+ billion (USD)","Analyst","Middle-age firm",FALSE,92.5
+"3.2","5001 to 10000 employees","Nonprofit Organization","Federal Agencies","Government","$1 to $2 billion (USD)","Scientist","Traditional firm",FALSE,81.5
+"4.3","1001 to 5000 employees","Company - Private","Trucking","Transportation & Logistics","-1","Analyst","Middle-age firm",TRUE,79
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Scientist","Traditional firm",FALSE,164
+"3.9","10000+ employees","Subsidiary or Business Segment","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Middle-age firm",TRUE,169
+"3.8","5001 to 10000 employees","Company - Public","Telecommunications Services","Telecommunications","$2 to $5 billion (USD)","Senior","Middle-age firm",FALSE,142
+"2.8","501 to 1000 employees","Nonprofit Organization","Social Assistance","Non-Profit","$50 to $100 million (USD)","Analyst","Traditional firm",FALSE,47.5
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,76.5
+"3.4","51 to 200 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Analyst","Middle-age firm",TRUE,69
+"4","201 to 500 employees","Company - Private","Computer Hardware & Software","Information Technology","$50 to $100 million (USD)","Analyst","Middle-age firm",FALSE,49
+"3.5","10000+ employees","Company - Public","Computer Hardware & Software","Information Technology","$10+ billion (USD)","Scientist","Middle-age firm",TRUE,171.5
+"3.8","501 to 1000 employees","Company - Private","Insurance Carriers","Insurance","$500 million to $1 billion (USD)","Scientist","Middle-age firm",TRUE,107
+"3.7","201 to 500 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Analyst","Middle-age firm",TRUE,59
+"3.5","201 to 500 employees","Company - Private","IT Services","Information Technology","$25 to $50 million (USD)","Scientist","New firm",FALSE,88.5
+"4.2","10000+ employees","Nonprofit Organization","Religious Organizations","Non-Profit","-1","Engineer","Traditional firm",FALSE,107
+"4","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,86.5
+"4.3","51 to 200 employees","Nonprofit Organization","Logistics & Supply Chain","Transportation & Logistics","$10 to $25 million (USD)","Scientist","Traditional firm",FALSE,84
+"4.7","201 to 500 employees","Company - Private","Consulting","Business Services","$50 to $100 million (USD)","Analyst","Middle-age firm",FALSE,114.5
+"3.5","1001 to 5000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $2 billion (USD)","Senior","Middle-age firm",TRUE,145
+"4.4","1001 to 5000 employees","Company - Public","Internet","Information Technology","$100 to $500 million (USD)","Engineer","Middle-age firm",FALSE,88
+"4.1","501 to 1000 employees","Company - Private","Internet","Information Technology","$100 to $500 million (USD)","Engineer","Middle-age firm",TRUE,100
+"2.9","201 to 500 employees","Nonprofit Organization","Colleges & Universities","Education","$25 to $50 million (USD)","Senior","Middle-age firm",TRUE,61.5
+"2.5","1001 to 5000 employees","Company - Public","Advertising & Marketing","Business Services","$1 to $2 billion (USD)","Scientist","Middle-age firm",FALSE,96.5
+"4.2","201 to 500 employees","Company - Private","Consulting","Business Services","-1","Analyst","Middle-age firm",FALSE,76
+"3.9","1001 to 5000 employees","Company - Private","Research & Development","Business Services","$100 to $500 million (USD)","Scientist","Traditional firm",TRUE,15.5
+"4.3","1 to 50 employees","Company - Private","Advertising & Marketing","Business Services","-1","Scientist","Middle-age firm",TRUE,83.5
+"2.7","51 to 200 employees","Government","Investment Banking & Asset Management","Finance","$50 to $100 million (USD)","Analyst","Traditional firm",TRUE,120
+"3.9","10000+ employees","Subsidiary or Business Segment","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Middle-age firm",TRUE,163
+"3.4","501 to 1000 employees","Nonprofit Organization","Insurance Carriers","Insurance","-1","Analyst","Traditional firm",TRUE,100
+"3.8","1001 to 5000 employees","Nonprofit Organization","Social Assistance","Non-Profit","-1","Scientist","Traditional firm",TRUE,52.5
+"3.3","501 to 1000 employees","Nonprofit Organization","Health Care Services & Hospitals","Health Care","-1","Analyst","Traditional firm",TRUE,50
+"3.4","201 to 500 employees","Company - Private","Consulting","Business Services","$50 to $100 million (USD)","Engineer","Middle-age firm",FALSE,93
+"3","1001 to 5000 employees","Company - Private","Insurance Agencies & Brokerages","Insurance","$2 to $5 billion (USD)","Scientist","Traditional firm",FALSE,94.5
+"4","5001 to 10000 employees","Company - Public","Computer Hardware & Software","Information Technology","$2 to $5 billion (USD)","Senior","Middle-age firm",FALSE,150.5
+"3.7","1001 to 5000 employees","Company - Public","Insurance Carriers","Insurance","$5 to $10 billion (USD)","Scientist","Middle-age firm",FALSE,102
+"4.4","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,62
+"4.3","201 to 500 employees","Company - Private","Advertising & Marketing","Business Services","-1","Manager","Traditional firm",FALSE,87.5
+"4","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,84
+"4","501 to 1000 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","Scientist","Middle-age firm",FALSE,143
+"3.2","1 to 50 employees","Company - Private","Staffing & Outsourcing","Business Services","$5 to $10 million (USD)","Senior","Traditional firm",FALSE,155
+"4.2","51 to 200 employees","Company - Public","Advertising & Marketing","Business Services","$25 to $50 million (USD)","Engineer","Middle-age firm",TRUE,71.5
+"3.9","51 to 200 employees","Company - Private","Insurance Carriers","Insurance","$10 to $25 million (USD)","Scientist","Middle-age firm",FALSE,108
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Traditional firm",FALSE,151.5
+"3.6","51 to 200 employees","Subsidiary or Business Segment","Department, Clothing, & Shoe Stores","Retail","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,51.5
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,140
+"2.8","201 to 500 employees","Company - Private","IT Services","Information Technology","-1","Senior","Middle-age firm",TRUE,77.5
+"4.2","501 to 1000 employees","Company - Private","Investment Banking & Asset Management","Finance","$50 to $100 million (USD)","Analyst","Middle-age firm",TRUE,63.5
+"4","1 to 50 employees","Company - Private","IT Services","Information Technology","Less than $1 million (USD)","Scientist","Traditional firm",FALSE,109
+"3.5","5001 to 10000 employees","Company - Public","Aerospace & Defense","Aerospace & Defense","$500 million to $1 billion (USD)","Scientist","Traditional firm",FALSE,96
+"-1","51 to 200 employees","Company - Private","IT Services","Information Technology","$5 to $10 million (USD)","Scientist","New firm",FALSE,225
+"3.2","1001 to 5000 employees","Company - Public","Lending","Finance","$500 million to $1 billion (USD)","Engineer","Middle-age firm",FALSE,101
+"3.3","1001 to 5000 employees","Company - Private","Insurance Carriers","Insurance","$10 to $25 million (USD)","Senior","Middle-age firm",FALSE,98.5
+"3.9","1001 to 5000 employees","Company - Private","Industrial Manufacturing","Manufacturing","$1 to $2 billion (USD)","Engineer","Traditional firm",TRUE,77.5
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Traditional firm",FALSE,161.5
+"3.4","1001 to 5000 employees","Company - Public","Insurance Carriers","Insurance","$1 to $2 billion (USD)","Senior","Traditional firm",FALSE,147
+"3.5","10000+ employees","Company - Public","IT Services","Information Technology","-1","Scientist","Middle-age firm",FALSE,90
+"4.3","501 to 1000 employees","Company - Public","Banks & Credit Unions","Finance","$5 to $10 billion (USD)","Analyst","Traditional firm",FALSE,58
+"4.1","501 to 1000 employees","Company - Private","Energy","Oil, Gas, Energy & Utilities","$1 to $2 billion (USD)","Analyst","Traditional firm",TRUE,61
+"2.6","501 to 1000 employees","College / University","Colleges & Universities","Education","-1","Scientist","Middle-age firm",TRUE,120
+"3.6","1001 to 5000 employees","Company - Public","Auctions & Galleries","Retail","$500 million to $1 billion (USD)","Scientist","Traditional firm",TRUE,128
+"3.5","1001 to 5000 employees","Company - Private","Banks & Credit Unions","Finance","$100 to $500 million (USD)","Scientist","Traditional firm",FALSE,99.5
+"3.6","1001 to 5000 employees","Company - Private","Real Estate","Real Estate","$500 million to $1 billion (USD)","Scientist","Middle-age firm",TRUE,96
+"2.3","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,101
+"3.9","51 to 200 employees","Company - Private","Financial Analytics & Research","Finance","$50 to $100 million (USD)","Senior","Middle-age firm",TRUE,148
+"4","501 to 1000 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","Senior","Middle-age firm",FALSE,142
+"4.1","1 to 50 employees","Company - Private","K-12 Education","Education","-1","Senior","Middle-age firm",TRUE,169
+"3.2","1001 to 5000 employees","Company - Public","Lending","Finance","$500 million to $1 billion (USD)","Scientist","Middle-age firm",FALSE,124.5
+"4.7","51 to 200 employees","Company - Private","Aerospace & Defense","Aerospace & Defense","$25 to $50 million (USD)","Analyst","Middle-age firm",FALSE,59
+"4.2","51 to 200 employees","Company - Private","Consulting","Business Services","$10 to $25 million (USD)","Analyst","Middle-age firm",FALSE,52.5
+"4.6","501 to 1000 employees","Company - Private","IT Services","Information Technology","$50 to $100 million (USD)","Engineer","Middle-age firm",FALSE,75.5
+"3.7","10000+ employees","Company - Public","Insurance Agencies & Brokerages","Insurance","$10+ billion (USD)","Senior","Traditional firm",FALSE,139
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Engineer","Traditional firm",FALSE,102.5
+"4.4","201 to 500 employees","Company - Private","Architectural & Engineering Services","Business Services","$25 to $50 million (USD)","Scientist","Traditional firm",FALSE,60.5
+"3.7","5001 to 10000 employees","Company - Public","Insurance Carriers","Insurance","$5 to $10 billion (USD)","Scientist","Traditional firm",TRUE,146.5
+"3.9","10000+ employees","Subsidiary or Business Segment","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Middle-age firm",TRUE,125
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Senior","Traditional firm",TRUE,81
+"3","501 to 1000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Senior","New firm",TRUE,133
+"3.4","10000+ employees","Subsidiary or Business Segment","IT Services","Information Technology","$10+ billion (USD)","Analyst","Middle-age firm",FALSE,77
+"4.1","5001 to 10000 employees","Company - Public","Research & Development","Business Services","$1 to $2 billion (USD)","Engineer","Traditional firm",TRUE,92
+"3.8","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Middle-age firm",FALSE,121
+"4","5001 to 10000 employees","Company - Public","Computer Hardware & Software","Information Technology","$2 to $5 billion (USD)","Engineer","Middle-age firm",FALSE,162.5
+"3.9","1001 to 5000 employees","Nonprofit Organization","Research & Development","Business Services","$500 million to $1 billion (USD)","Scientist","Traditional firm",TRUE,60
+"-1","201 to 500 employees","Nonprofit Organization","-1","-1","-1","Scientist","Traditional firm",TRUE,87.5
+"4.4","1 to 50 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Engineer","New firm",FALSE,90.5
+"3.8","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Middle-age firm",FALSE,114.5
+"3.8","5001 to 10000 employees","Company - Public","Telecommunications Services","Telecommunications","$2 to $5 billion (USD)","Scientist","Middle-age firm",TRUE,121
+"2.2","501 to 1000 employees","Subsidiary or Business Segment","Advertising & Marketing","Business Services","$50 to $100 million (USD)","Senior","Middle-age firm",FALSE,110
+"2.9","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Scientist","Traditional firm",TRUE,91.5
+"4.1","5001 to 10000 employees","Company - Public","Research & Development","Business Services","$1 to $2 billion (USD)","Analyst","Traditional firm",FALSE,70.5
+"3.7","501 to 1000 employees","Company - Private","Computer Hardware & Software","Information Technology","-1","Engineer","Traditional firm",FALSE,70.5
+"3.8","1001 to 5000 employees","Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","Scientist","Traditional firm",TRUE,76.5
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Engineer","Traditional firm",TRUE,92
+"4.7","51 to 200 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $5 million (USD)","Scientist","Middle-age firm",TRUE,140.5
+"3.5","1001 to 5000 employees","Company - Private","Computer Hardware & Software","Information Technology","$1 to $2 billion (USD)","Engineer","Middle-age firm",FALSE,82
+"3.3","10000+ employees","Hospital","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","Scientist","Middle-age firm",TRUE,84.5
+"4.4","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","Senior","Middle-age firm",TRUE,134.5
+"3.3","201 to 500 employees","Company - Private","Advertising & Marketing","Business Services","-1","Scientist","Middle-age firm",TRUE,164.5
+"3.4","201 to 500 employees","Company - Public","Telecommunications Manufacturing","Telecommunications","$50 to $100 million (USD)","Analyst","Middle-age firm",TRUE,44
+"4","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","$5 to $10 million (USD)","Engineer","Middle-age firm",TRUE,93.5
+"4.4","1 to 50 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Engineer","New firm",FALSE,109
+"3.8","501 to 1000 employees","Company - Private","Computer Hardware & Software","Information Technology","-1","Engineer","Middle-age firm",FALSE,149.5
+"3.5","1001 to 5000 employees","Company - Private","Research & Development","Business Services","-1","Engineer","Middle-age firm",TRUE,65.5
+"3.5","1001 to 5000 employees","Company - Public","Insurance Carriers","Insurance","-1","Senior","New firm",TRUE,124.5
+"2.9","51 to 200 employees","Company - Private","Advertising & Marketing","Business Services","-1","Engineer","Middle-age firm",FALSE,114
+"3.9","501 to 1000 employees","Nonprofit Organization","Banks & Credit Unions","Finance","-1","Analyst","Traditional firm",TRUE,49
+"3.3","10000+ employees","Hospital","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","Scientist","Middle-age firm",TRUE,84.5
+"3.7","501 to 1000 employees","Company - Private","IT Services","Information Technology","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,71
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Manager","Traditional firm",FALSE,101
+"3.5","1001 to 5000 employees","Company - Private","Computer Hardware & Software","Information Technology","$1 to $2 billion (USD)","Scientist","Middle-age firm",TRUE,107
+"4.7","201 to 500 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Scientist","Middle-age firm",TRUE,112.5
+"3.9","201 to 500 employees","Company - Private","Internet","Information Technology","$10 to $25 million (USD)","Scientist","Middle-age firm",TRUE,181
+"3.7","10000+ employees","Company - Public","Computer Hardware & Software","Information Technology","$5 to $10 billion (USD)","Analyst","Traditional firm",TRUE,61
+"4.1","51 to 200 employees","Company - Private","Internet","Information Technology","$50 to $100 million (USD)","Engineer","Middle-age firm",TRUE,205
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Scientist","Traditional firm",FALSE,103.5
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Manager","Traditional firm",TRUE,63
+"3","10000+ employees","Company - Public","IT Services","Information Technology","$10+ billion (USD)","Analyst","Middle-age firm",FALSE,62.5
+"3.5","501 to 1000 employees","Company - Private","Health Care Services & Hospitals","Health Care","-1","Engineer","Middle-age firm",TRUE,94.5
+"3.6","1001 to 5000 employees","Company - Private","Gambling","Arts, Entertainment & Recreation","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,48.5
+"3.5","1001 to 5000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $2 billion (USD)","Senior","Middle-age firm",TRUE,154.5
+"3.7","501 to 1000 employees","Company - Public","Stock Exchanges","Finance","$500 million to $1 billion (USD)","Scientist","Middle-age firm",FALSE,87
+"2.4","501 to 1000 employees","Company - Private","Food & Beverage Manufacturing","Manufacturing","$100 to $500 million (USD)","Scientist","Traditional firm",FALSE,52.5
+"3.2","501 to 1000 employees","Company - Private","Research & Development","Business Services","-1","Engineer","Middle-age firm",TRUE,64.5
+"2.1","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$25 to $50 million (USD)","Scientist","Traditional firm",TRUE,111.5
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Engineer","Traditional firm",FALSE,154.5
+"2.6","501 to 1000 employees","College / University","Colleges & Universities","Education","-1","Senior","Middle-age firm",TRUE,124
+"4.4","201 to 500 employees","Company - Private","Consulting","Business Services","$50 to $100 million (USD)","Senior","Middle-age firm",TRUE,128.5
+"3.5","501 to 1000 employees","Nonprofit Organization","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","Manager","Middle-age firm",TRUE,64
+"3","10000+ employees","Company - Private","Gas Stations","Retail","$10+ billion (USD)","Engineer","Traditional firm",TRUE,98
+"4.2","51 to 200 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Scientist","Middle-age firm",TRUE,142.5
+"3.9","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Traditional firm",FALSE,137
+"4","501 to 1000 employees","Nonprofit Organization","Insurance Carriers","Insurance","$500 million to $1 billion (USD)","Engineer","Traditional firm",TRUE,99
+"3.3","501 to 1000 employees","Company - Private","Food & Beverage Manufacturing","Manufacturing","-1","Scientist","Traditional firm",TRUE,54
+"4.4","1001 to 5000 employees","Company - Private","Computer Hardware & Software","Information Technology","$1 to $2 billion (USD)","Senior","Middle-age firm",TRUE,139.5
+"3.4","201 to 500 employees","Company - Private","IT Services","Information Technology","$25 to $50 million (USD)","Engineer","Middle-age firm",FALSE,109
+"3.3","10000+ employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Manager","Traditional firm",FALSE,254
+"2.9","201 to 500 employees","Subsidiary or Business Segment","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Scientist","Middle-age firm",FALSE,73
+"2.7","201 to 500 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$25 to $50 million (USD)","Scientist","Traditional firm",TRUE,81
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Scientist","Traditional firm",TRUE,99.5
+"3.3","501 to 1000 employees","Company - Private","Insurance Carriers","Insurance","$500 million to $1 billion (USD)","Analyst","Middle-age firm",TRUE,45.5
+"4.5","51 to 200 employees","Company - Private","Consulting","Business Services","$25 to $50 million (USD)","Engineer","Middle-age firm",TRUE,122.5
+"3.9","5001 to 10000 employees","Company - Public","Financial Analytics & Research","Finance","$1 to $2 billion (USD)","Senior","Traditional firm",TRUE,140
+"3.2","5001 to 10000 employees","Nonprofit Organization","Federal Agencies","Government","$1 to $2 billion (USD)","Engineer","Traditional firm",FALSE,77.5
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Senior","Traditional firm",TRUE,117.5
+"2.4","501 to 1000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$50 to $100 million (USD)","Scientist","Middle-age firm",TRUE,70.5
+"4.8","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","$25 to $50 million (USD)","Manager","Middle-age firm",TRUE,61.5
+"2.9","1001 to 5000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Scientist","New firm",FALSE,70
+"2.9","1001 to 5000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Senior","New firm",FALSE,80
+"3.4","1001 to 5000 employees","Company - Private","Insurance Carriers","Insurance","$100 to $500 million (USD)","Engineer","Middle-age firm",TRUE,90
+"-1","-1","Company - Private","-1","-1","-1","Scientist","Traditional firm",FALSE,120
+"2.6","501 to 1000 employees","College / University","Colleges & Universities","Education","-1","Scientist","Middle-age firm",TRUE,73.5
+"3.8","501 to 1000 employees","Subsidiary or Business Segment","Advertising & Marketing","Business Services","-1","Scientist","Middle-age firm",TRUE,91
+"5","-1","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Scientist","Traditional firm",FALSE,155
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Scientist","Traditional firm",FALSE,129.5
+"4","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Manager","Traditional firm",TRUE,167.5
+"3.8","1001 to 5000 employees","Company - Public","Banks & Credit Unions","Finance","$1 to $2 billion (USD)","Analyst","Traditional firm",TRUE,60
+"3.9","51 to 200 employees","Company - Private","Financial Analytics & Research","Finance","$50 to $100 million (USD)","Scientist","Middle-age firm",TRUE,180
+"3.8","1001 to 5000 employees","Company - Private","Travel Agencies","Travel & Tourism","$2 to $5 billion (USD)","Analyst","Middle-age firm",TRUE,65
+"4.3","5001 to 10000 employees","Company - Private","Computer Hardware & Software","Information Technology","$1 to $2 billion (USD)","Engineer","Middle-age firm",FALSE,112.5
+"1.9","201 to 500 employees","Company - Private","Department, Clothing, & Shoe Stores","Retail","$100 to $500 million (USD)","Senior","Middle-age firm",TRUE,87.5
+"3.3","10000+ employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Engineer","Traditional firm",FALSE,51.5
+"4.7","51 to 200 employees","Company - Private","Architectural & Engineering Services","Business Services","$10 to $25 million (USD)","Scientist","Middle-age firm",FALSE,51
+"3.1","10000+ employees","Company - Private","Banks & Credit Unions","Finance","$10+ billion (USD)","Scientist","Traditional firm",FALSE,62.5
+"3.4","501 to 1000 employees","Company - Public","Health Care Services & Hospitals","Health Care","-1","Engineer","Middle-age firm",FALSE,100
+"4.4","51 to 200 employees","Company - Private","IT Services","Information Technology","-1","Engineer","Middle-age firm",FALSE,85
+"3.9","201 to 500 employees","Company - Private","Computer Hardware & Software","Information Technology","-1","Senior","Middle-age firm",TRUE,122
+"3.9","501 to 1000 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","Analyst","Middle-age firm",FALSE,66.5
+"4.7","1001 to 5000 employees","Company - Private","Lending","Finance","-1","Scientist","Middle-age firm",TRUE,70.5
+"4.7","51 to 200 employees","Company - Private","Security Services","Business Services","$10 to $25 million (USD)","Engineer","Middle-age firm",TRUE,138.5
+"3.4","1001 to 5000 employees","Company - Private","Consulting","Business Services","$100 to $500 million (USD)","Engineer","Traditional firm",FALSE,107.5
+"3.8","501 to 1000 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$50 to $100 million (USD)","Scientist","Middle-age firm",TRUE,120.5
+"2.7","201 to 500 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$25 to $50 million (USD)","Scientist","Traditional firm",TRUE,81
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Scientist","Traditional firm",FALSE,103.5
+"3.4","1001 to 5000 employees","Company - Public","Transportation Management","Transportation & Logistics","$2 to $5 billion (USD)","Engineer","Middle-age firm",TRUE,107.5
+"4","1001 to 5000 employees","Company - Private","Internet","Information Technology","-1","Engineer","Middle-age firm",FALSE,162
+"3.5","1001 to 5000 employees","Company - Private","Computer Hardware & Software","Information Technology","$1 to $2 billion (USD)","Engineer","Middle-age firm",TRUE,68.5
+"3.4","10000+ employees","Company - Public","Insurance Carriers","Insurance","$5 to $10 billion (USD)","Engineer","Middle-age firm",FALSE,110.5
+"3.7","10000+ employees","Company - Public","Industrial Manufacturing","Manufacturing","$10+ billion (USD)","Scientist","Traditional firm",FALSE,81
+"4.3","1001 to 5000 employees","Company - Public","Real Estate","Real Estate","$2 to $5 billion (USD)","Senior","Middle-age firm",TRUE,130
+"3.7","201 to 500 employees","Subsidiary or Business Segment","Insurance Carriers","Insurance","$100 to $500 million (USD)","Engineer","Traditional firm",TRUE,115.5
+"3.8","1001 to 5000 employees","Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","Senior","Traditional firm",TRUE,80.5
+"4.6","501 to 1000 employees","Company - Private","Lending","Finance","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,43
+"4.4","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Manager","Middle-age firm",TRUE,140
+"-1","-1","Company - Private","-1","-1","-1","Senior","Traditional firm",FALSE,120
+"3","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$5 to $10 billion (USD)","Senior","Middle-age firm",TRUE,66.5
+"4.7","51 to 200 employees","Company - Private","Staffing & Outsourcing","Business Services","$1 to $5 million (USD)","Engineer","Middle-age firm",FALSE,94.5
+"3.8","1001 to 5000 employees","Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","Senior","Traditional firm",FALSE,119
+"3.3","10000+ employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Manager","Traditional firm",FALSE,194.5
+"3.9","1001 to 5000 employees","Nonprofit Organization","Research & Development","Business Services","$500 million to $1 billion (USD)","Engineer","Traditional firm",TRUE,71.5
+"3.7","501 to 1000 employees","College / University","Colleges & Universities","Education","-1","Scientist","Traditional firm",TRUE,105.5
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Senior","Traditional firm",TRUE,74
+"3.7","10000+ employees","Company - Public","Aerospace & Defense","Aerospace & Defense","$10+ billion (USD)","Engineer","Traditional firm",FALSE,62.5
+"4.3","1001 to 5000 employees","Nonprofit Organization","Research & Development","Business Services","$500 million to $1 billion (USD)","Senior","Traditional firm",FALSE,65.5
+"3.6","1001 to 5000 employees","Company - Private","Advertising & Marketing","Business Services","-1","Manager","Middle-age firm",TRUE,161.5
+"2.1","1001 to 5000 employees","Other Organization","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","Senior","Middle-age firm",TRUE,72.5
+"3.9","51 to 200 employees","Company - Public","Computer Hardware & Software","Information Technology","$10 to $25 million (USD)","Engineer","Middle-age firm",TRUE,139
+"3.9","201 to 500 employees","Company - Private","Internet","Information Technology","$10 to $25 million (USD)","Engineer","Middle-age firm",TRUE,136.5
+"3.8","1001 to 5000 employees","Company - Private","Travel Agencies","Travel & Tourism","$2 to $5 billion (USD)","Scientist","Middle-age firm",TRUE,74.5
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Senior","Traditional firm",TRUE,80.5
+"3.5","5001 to 10000 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $2 billion (USD)","Scientist","Traditional firm",FALSE,75.5
+"4.7","51 to 200 employees","Company - Private","IT Services","Information Technology","-1","Scientist","New firm",TRUE,143.5
+"5","51 to 200 employees","Company - Private","Aerospace & Defense","Aerospace & Defense","$10 to $25 million (USD)","Scientist","Middle-age firm",FALSE,101
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Engineer","Traditional firm",TRUE,92
+"3.8","1001 to 5000 employees","Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","Scientist","Traditional firm",TRUE,76.5
+"4.7","51 to 200 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $5 million (USD)","Scientist","Middle-age firm",TRUE,140.5
+"3.6","10000+ employees","Company - Public","Investment Banking & Asset Management","Finance","$10+ billion (USD)","Scientist","Traditional firm",FALSE,116.5
+"4.7","501 to 1000 employees","Subsidiary or Business Segment","Computer Hardware & Software","Information Technology","-1","Scientist","Middle-age firm",FALSE,232.5
+"3.5","51 to 200 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Scientist","New firm",TRUE,120.5
+"3.5","1001 to 5000 employees","Company - Private","Computer Hardware & Software","Information Technology","$1 to $2 billion (USD)","Engineer","Middle-age firm",FALSE,82
+"3.3","10000+ employees","Hospital","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","Scientist","Middle-age firm",TRUE,84.5
+"2.7","10000+ employees","Company - Public","IT Services","Information Technology","-1","Scientist","Middle-age firm",FALSE,153
+"3.4","501 to 1000 employees","Company - Private","Internet","Information Technology","-1","Scientist","Middle-age firm",TRUE,127
+"4.7","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","-1","Scientist","Middle-age firm",TRUE,85.5
+"2.8","1001 to 5000 employees","Company - Public","Wholesale","Business Services","$1 to $2 billion (USD)","Scientist","Middle-age firm",TRUE,76.5
+"3.5","1001 to 5000 employees","Subsidiary or Business Segment","TV Broadcast & Cable Networks","Media","$500 million to $1 billion (USD)","Scientist","Middle-age firm",FALSE,128
+"3.2","1 to 50 employees","Company - Private","Staffing & Outsourcing","Business Services","$5 to $10 million (USD)","Engineer","Traditional firm",FALSE,91.5
+"4.4","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","Senior","Middle-age firm",TRUE,134.5
+"3.3","201 to 500 employees","Company - Private","Advertising & Marketing","Business Services","-1","Scientist","Middle-age firm",TRUE,164.5
+"4","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","$5 to $10 million (USD)","Engineer","Middle-age firm",TRUE,93.5
+"3.4","201 to 500 employees","Company - Public","Telecommunications Manufacturing","Telecommunications","$50 to $100 million (USD)","Analyst","Middle-age firm",TRUE,44
+"3.8","501 to 1000 employees","Company - Private","Computer Hardware & Software","Information Technology","-1","Engineer","Middle-age firm",FALSE,149.5
+"3.5","1001 to 5000 employees","Company - Private","Research & Development","Business Services","-1","Engineer","Middle-age firm",TRUE,65.5
+"4.4","1 to 50 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Engineer","New firm",FALSE,109
+"3.7","1001 to 5000 employees","Subsidiary or Business Segment","Computer Hardware & Software","Information Technology","$50 to $100 million (USD)","Engineer","Middle-age firm",TRUE,177
+"4.7","201 to 500 employees","Company - Private","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","Scientist","Middle-age firm",FALSE,107
+"4.1","501 to 1000 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Scientist","Middle-age firm",TRUE,154.5
+"4","1 to 50 employees","Company - Private","Accounting","Accounting & Legal","Less than $1 million (USD)","Scientist","Traditional firm",FALSE,113.5
+"3.5","1001 to 5000 employees","Company - Public","Insurance Carriers","Insurance","-1","Senior","New firm",TRUE,124.5
+"2.5","1 to 50 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Scientist","Traditional firm",TRUE,143.5
+"3.9","1 to 50 employees","Company - Private","IT Services","Information Technology","Less than $1 million (USD)","Scientist","Traditional firm",FALSE,113.5
+"3.4","10000+ employees","Company - Public","Aerospace & Defense","Aerospace & Defense","$10+ billion (USD)","Scientist","Middle-age firm",FALSE,101.5
+"3.6","10000+ employees","Subsidiary or Business Segment","Health Care Products Manufacturing","Manufacturing","$2 to $5 billion (USD)","Analyst","Traditional firm",FALSE,73
+"3.5","10000+ employees","Company - Public","Consulting","Business Services","$2 to $5 billion (USD)","Scientist","New firm",FALSE,80.5
+"-1","-1","Company - Private","-1","-1","-1","Scientist","Traditional firm",FALSE,110.5
+"2.9","51 to 200 employees","Company - Private","Advertising & Marketing","Business Services","-1","Engineer","Middle-age firm",FALSE,114
+"3.5","51 to 200 employees","Company - Private","Health, Beauty, & Fitness","Consumer Services","$5 to $10 million (USD)","Scientist","Traditional firm",FALSE,139.5
+"4.8","1 to 50 employees","Company - Private","IT Services","Information Technology","-1","Scientist","Middle-age firm",FALSE,145.5
+"4","201 to 500 employees","Company - Private","Lending","Finance","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,87
+"4.2","201 to 500 employees","Company - Private","Banks & Credit Unions","Finance","$50 to $100 million (USD)","Scientist","Traditional firm",TRUE,100.5
+"3.8","10000+ employees","Company - Public","Enterprise Software & Network Solutions","Information Technology","$10+ billion (USD)","Manager","Traditional firm",FALSE,147
+"3.7","201 to 500 employees","Company - Private","Insurance Carriers","Insurance","$100 to $500 million (USD)","Engineer","Traditional firm",TRUE,110.5
+"3.9","501 to 1000 employees","Nonprofit Organization","Banks & Credit Unions","Finance","-1","Analyst","Traditional firm",TRUE,49
+"4.6","51 to 200 employees","Company - Private","Consulting","Business Services","$5 to $10 million (USD)","Scientist","Traditional firm",FALSE,94
+"4.3","1001 to 5000 employees","Company - Public","Enterprise Software & Network Solutions","Information Technology","$500 million to $1 billion (USD)","Senior","Middle-age firm",TRUE,123.5
+"3.3","10000+ employees","Hospital","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","Scientist","Middle-age firm",TRUE,84.5
+"3.7","501 to 1000 employees","Company - Private","IT Services","Information Technology","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,71
+"4","10000+ employees","Company - Public","Computer Hardware & Software","Information Technology","-1","Engineer","Traditional firm",FALSE,73
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Manager","Traditional firm",FALSE,101
+"3.9","201 to 500 employees","Company - Private","Internet","Information Technology","$10 to $25 million (USD)","Scientist","Middle-age firm",TRUE,181
+"3.7","10000+ employees","Company - Public","Aerospace & Defense","Aerospace & Defense","$10+ billion (USD)","Scientist","Traditional firm",FALSE,109.5
+"3.7","10000+ employees","Company - Public","IT Services","Information Technology","$10+ billion (USD)","Scientist","Traditional firm",FALSE,184.5
+"3.9","201 to 500 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Senior","Middle-age firm",TRUE,165
+"3.7","10000+ employees","Company - Public","Computer Hardware & Software","Information Technology","$5 to $10 billion (USD)","Analyst","Traditional firm",TRUE,61
+"4.1","51 to 200 employees","Company - Private","Internet","Information Technology","$50 to $100 million (USD)","Engineer","Middle-age firm",TRUE,205
+"3.1","1001 to 5000 employees","School / School District","K-12 Education","Education","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,59.5
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Scientist","Traditional firm",FALSE,103.5
+"3","10000+ employees","Company - Public","IT Services","Information Technology","$10+ billion (USD)","Analyst","Middle-age firm",FALSE,62.5
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Manager","Traditional firm",TRUE,63
+"3.6","1 to 50 employees","Company - Private","Health Care Services & Hospitals","Health Care","$10 to $25 million (USD)","Analyst","Middle-age firm",TRUE,66
+"3.5","501 to 1000 employees","Company - Private","Health Care Services & Hospitals","Health Care","-1","Engineer","Middle-age firm",TRUE,94.5
+"4.2","51 to 200 employees","Company - Private","Education Training Services","Education","-1","Scientist","Middle-age firm",TRUE,75.5
+"4","501 to 1000 employees","Company - Public","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","Scientist","Traditional firm",FALSE,87
+"3.9","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Traditional firm",FALSE,140
+"3.7","201 to 500 employees","Company - Private","IT Services","Information Technology","$25 to $50 million (USD)","Scientist","Middle-age firm",FALSE,86
+"4.4","1 to 50 employees","Company - Private","Internet","Information Technology","-1","Senior","Middle-age firm",TRUE,116.5
+"3.5","1001 to 5000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $2 billion (USD)","Senior","Middle-age firm",TRUE,154.5
+"3.7","501 to 1000 employees","Company - Public","Stock Exchanges","Finance","$500 million to $1 billion (USD)","Scientist","Middle-age firm",FALSE,87
+"3.6","1001 to 5000 employees","Company - Private","Gambling","Arts, Entertainment & Recreation","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,48.5
+"3.4","501 to 1000 employees","Company - Private","IT Services","Information Technology","$1 to $2 billion (USD)","Engineer","Middle-age firm",FALSE,80
+"2.4","501 to 1000 employees","Company - Private","Food & Beverage Manufacturing","Manufacturing","$100 to $500 million (USD)","Scientist","Traditional firm",FALSE,52.5
+"3.7","10000+ employees","Company - Public","Aerospace & Defense","Aerospace & Defense","$10+ billion (USD)","Scientist","Traditional firm",FALSE,173
+"3.5","501 to 1000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Engineer","Middle-age firm",FALSE,68.5
+"4.4","1001 to 5000 employees","Company - Private","Investment Banking & Asset Management","Finance","-1","Scientist","Middle-age firm",TRUE,172
+"3.3","10000+ employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Scientist","Traditional firm",TRUE,114.5
+"3.9","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,95
+"3.2","5001 to 10000 employees","Nonprofit Organization","Federal Agencies","Government","$1 to $2 billion (USD)","Engineer","Traditional firm",TRUE,69.5
+"3.2","501 to 1000 employees","Company - Private","Research & Development","Business Services","-1","Engineer","Middle-age firm",TRUE,64.5
+"2.1","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$25 to $50 million (USD)","Scientist","Traditional firm",TRUE,111.5
+"4","501 to 1000 employees","Company - Private","Consumer Product Rental","Consumer Services","-1","Scientist","Middle-age firm",TRUE,97.5
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Engineer","Traditional firm",FALSE,154.5
+"2.6","501 to 1000 employees","College / University","Colleges & Universities","Education","-1","Senior","Middle-age firm",TRUE,124
+"3.4","201 to 500 employees","Company - Private","Health Care Services & Hospitals","Health Care","-1","Scientist","Middle-age firm",FALSE,95
+"4.4","201 to 500 employees","Company - Private","Consulting","Business Services","$50 to $100 million (USD)","Senior","Middle-age firm",TRUE,128.5
+"3.2","501 to 1000 employees","Subsidiary or Business Segment","Enterprise Software & Network Solutions","Information Technology","-1","Scientist","Middle-age firm",TRUE,194
+"3.5","201 to 500 employees","Company - Public","Advertising & Marketing","Business Services","-1","Scientist","Middle-age firm",TRUE,104.5
+"4.2","201 to 500 employees","Company - Private","IT Services","Information Technology","-1","Engineer","Middle-age firm",FALSE,85.5
+"4.2","10000+ employees","Nonprofit Organization","Religious Organizations","Non-Profit","-1","Analyst","Traditional firm",TRUE,50
+"3.1","1001 to 5000 employees","Company - Public","Video Games","Media","$10+ billion (USD)","Engineer","Middle-age firm",FALSE,113
+"3.9","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,90.5
+"4.3","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","-1","Senior","Middle-age firm",TRUE,153
+"3.3","1001 to 5000 employees","Company - Public","Consulting","Business Services","$2 to $5 billion (USD)","Analyst","Middle-age firm",TRUE,123.5
+"3.9","201 to 500 employees","Company - Private","Internet","Information Technology","$10 to $25 million (USD)","Analyst","Middle-age firm",TRUE,47
+"3.5","501 to 1000 employees","Nonprofit Organization","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","Manager","Middle-age firm",TRUE,64
+"4","10000+ employees","Company - Public","Computer Hardware & Software","Information Technology","$5 to $10 billion (USD)","Engineer","Middle-age firm",TRUE,162
+"3.9","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Traditional firm",FALSE,137
+"3","10000+ employees","Company - Private","Gas Stations","Retail","$10+ billion (USD)","Engineer","Traditional firm",TRUE,98
+"3.7","10000+ employees","Company - Public","Insurance Agencies & Brokerages","Insurance","$10+ billion (USD)","Scientist","Traditional firm",FALSE,115
+"3.5","5001 to 10000 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $2 billion (USD)","Senior","Traditional firm",FALSE,133.5
+"4","501 to 1000 employees","Nonprofit Organization","Insurance Carriers","Insurance","$500 million to $1 billion (USD)","Engineer","Traditional firm",TRUE,99
+"3.3","501 to 1000 employees","Company - Private","Food & Beverage Manufacturing","Manufacturing","-1","Scientist","Traditional firm",TRUE,54
+"3.2","1001 to 5000 employees","Company - Private","Health Care Services & Hospitals","Health Care","-1","Engineer","Middle-age firm",FALSE,109
+"3.4","201 to 500 employees","Company - Private","IT Services","Information Technology","$25 to $50 million (USD)","Engineer","Middle-age firm",FALSE,109
+"4.4","1001 to 5000 employees","Company - Private","Computer Hardware & Software","Information Technology","$1 to $2 billion (USD)","Senior","Middle-age firm",TRUE,139.5
+"3.3","10000+ employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Manager","Traditional firm",FALSE,254
+"3.2","1001 to 5000 employees","Company - Private","Computer Hardware & Software","Information Technology","-1","Scientist","Middle-age firm",TRUE,125
+"3.8","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Middle-age firm",FALSE,106.5
+"2.9","201 to 500 employees","Subsidiary or Business Segment","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Scientist","Middle-age firm",FALSE,73
+"2.7","201 to 500 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$25 to $50 million (USD)","Scientist","Traditional firm",TRUE,81
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Scientist","Traditional firm",TRUE,99.5
+"3.3","501 to 1000 employees","Company - Private","Insurance Carriers","Insurance","$500 million to $1 billion (USD)","Analyst","Middle-age firm",TRUE,45.5
+"3.7","5001 to 10000 employees","Company - Public","Insurance Carriers","Insurance","$5 to $10 billion (USD)","Analyst","Traditional firm",TRUE,54
+"4.5","51 to 200 employees","Company - Private","Consulting","Business Services","$25 to $50 million (USD)","Engineer","Middle-age firm",TRUE,122.5
+"3","1001 to 5000 employees","Subsidiary or Business Segment","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,37.5
+"3.8","1001 to 5000 employees","Company - Private","Travel Agencies","Travel & Tourism","$2 to $5 billion (USD)","Analyst","Middle-age firm",TRUE,53.5
+"3.9","5001 to 10000 employees","Company - Public","Financial Analytics & Research","Finance","$1 to $2 billion (USD)","Senior","Traditional firm",TRUE,140
+"3.2","5001 to 10000 employees","Nonprofit Organization","Federal Agencies","Government","$1 to $2 billion (USD)","Engineer","Traditional firm",FALSE,77.5
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Senior","Traditional firm",TRUE,117.5
+"2.4","501 to 1000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$50 to $100 million (USD)","Scientist","Middle-age firm",TRUE,70.5
+"2.9","1001 to 5000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Scientist","New firm",FALSE,70
+"4.8","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","$25 to $50 million (USD)","Manager","Middle-age firm",TRUE,61.5
+"2.9","1001 to 5000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Senior","New firm",FALSE,80
+"4.7","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","$25 to $50 million (USD)","Scientist","Middle-age firm",TRUE,79.5
+"4.7","501 to 1000 employees","Company - Private","Computer Hardware & Software","Information Technology","$100 to $500 million (USD)","Scientist","Middle-age firm",TRUE,168
+"3.4","1001 to 5000 employees","Company - Private","Insurance Carriers","Insurance","$100 to $500 million (USD)","Engineer","Middle-age firm",TRUE,90
+"-1","-1","Company - Private","-1","-1","-1","Scientist","Traditional firm",FALSE,120
+"3.9","51 to 200 employees","Company - Public","Computer Hardware & Software","Information Technology","-1","Senior","Middle-age firm",TRUE,138.5
+"3.6","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$2 to $5 billion (USD)","Analyst","New firm",FALSE,111.5
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Manager","Traditional firm",FALSE,68.5
+"3.9","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Traditional firm",FALSE,84.5
+"4.4","1001 to 5000 employees","Company - Public","Internet","Information Technology","$100 to $500 million (USD)","Engineer","Middle-age firm",FALSE,102.5
+"2.6","501 to 1000 employees","College / University","Colleges & Universities","Education","-1","Scientist","Middle-age firm",TRUE,73.5
+"3.6","501 to 1000 employees","Nonprofit Organization","Federal Agencies","Government","$50 to $100 million (USD)","Scientist","Traditional firm",FALSE,93.5
+"3.2","1 to 50 employees","Company - Private","Staffing & Outsourcing","Business Services","$5 to $10 million (USD)","Manager","Traditional firm",FALSE,127.5
+"4.2","10000+ employees","Nonprofit Organization","Religious Organizations","Non-Profit","-1","Analyst","Traditional firm",TRUE,72
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Scientist","Traditional firm",FALSE,129.5
+"3.1","1001 to 5000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$500 million to $1 billion (USD)","Analyst","Middle-age firm",TRUE,47
+"3.8","501 to 1000 employees","Subsidiary or Business Segment","Consumer Product Rental","Consumer Services","-1","Engineer","Middle-age firm",TRUE,65
+"3.8","1001 to 5000 employees","Company - Public","Banks & Credit Unions","Finance","$1 to $2 billion (USD)","Analyst","Traditional firm",TRUE,60
+"4","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Manager","Traditional firm",TRUE,167.5
+"3.8","1001 to 5000 employees","Company - Private","Travel Agencies","Travel & Tourism","$2 to $5 billion (USD)","Analyst","Middle-age firm",TRUE,65
+"4","501 to 1000 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","Senior","Middle-age firm",FALSE,94
+"1.9","201 to 500 employees","Company - Private","Department, Clothing, & Shoe Stores","Retail","$100 to $500 million (USD)","Senior","Middle-age firm",TRUE,87.5
+"4","501 to 1000 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","Engineer","Middle-age firm",FALSE,97
+"4.3","5001 to 10000 employees","Company - Private","Computer Hardware & Software","Information Technology","$1 to $2 billion (USD)","Engineer","Middle-age firm",FALSE,112.5
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Scientist","Traditional firm",FALSE,91.5
+"3.3","10000+ employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Engineer","Traditional firm",FALSE,51.5
+"3.8","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Middle-age firm",FALSE,114.5
+"4.3","201 to 500 employees","Company - Private","Consulting","Business Services","$10 to $25 million (USD)","Scientist","Middle-age firm",TRUE,115
+"3.2","1 to 50 employees","Company - Private","Staffing & Outsourcing","Business Services","$5 to $10 million (USD)","Manager","Traditional firm",FALSE,74
+"4.7","51 to 200 employees","Company - Private","Architectural & Engineering Services","Business Services","$10 to $25 million (USD)","Scientist","Middle-age firm",FALSE,51
+"3.4","501 to 1000 employees","Company - Public","Health Care Services & Hospitals","Health Care","-1","Engineer","Middle-age firm",FALSE,100
+"3.8","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Middle-age firm",FALSE,121
+"4.5","201 to 500 employees","Company - Private","Computer Hardware & Software","Information Technology","$100 to $500 million (USD)","Senior","Middle-age firm",TRUE,121.5
+"3.1","10000+ employees","Company - Private","Banks & Credit Unions","Finance","$10+ billion (USD)","Scientist","Traditional firm",FALSE,62.5
+"-1","-1","-1","-1","-1","-1","Scientist","Traditional firm",FALSE,117.5
+"3.9","201 to 500 employees","Company - Private","Computer Hardware & Software","Information Technology","-1","Senior","Middle-age firm",TRUE,122
+"4.4","51 to 200 employees","Company - Private","IT Services","Information Technology","-1","Engineer","Middle-age firm",FALSE,85
+"3.4","501 to 1000 employees","Company - Private","IT Services","Information Technology","$50 to $100 million (USD)","Engineer","Middle-age firm",FALSE,60.5
+"3.9","51 to 200 employees","Company - Private","Financial Analytics & Research","Finance","$50 to $100 million (USD)","Scientist","Middle-age firm",TRUE,180
+"4.7","1001 to 5000 employees","Company - Private","Lending","Finance","-1","Scientist","Middle-age firm",TRUE,70.5
+"3.3","1001 to 5000 employees","Company - Private","Aerospace & Defense","Aerospace & Defense","$1 to $2 billion (USD)","Engineer","New firm",FALSE,118.5
+"3.9","501 to 1000 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","Analyst","Middle-age firm",FALSE,66.5
+"3.4","1001 to 5000 employees","Company - Private","Consulting","Business Services","$100 to $500 million (USD)","Engineer","Traditional firm",FALSE,107.5
+"4.7","51 to 200 employees","Company - Private","Security Services","Business Services","$10 to $25 million (USD)","Engineer","Middle-age firm",TRUE,138.5
+"2.7","201 to 500 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$25 to $50 million (USD)","Scientist","Traditional firm",TRUE,81
+"3.8","1001 to 5000 employees","Company - Private","Insurance Carriers","Insurance","$2 to $5 billion (USD)","Engineer","Traditional firm",TRUE,58.5
+"3.4","1001 to 5000 employees","Company - Public","Transportation Management","Transportation & Logistics","$2 to $5 billion (USD)","Engineer","Middle-age firm",TRUE,107.5
+"3.8","501 to 1000 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$50 to $100 million (USD)","Scientist","Middle-age firm",TRUE,120.5
+"3.9","201 to 500 employees","Company - Private","Internet","Information Technology","$10 to $25 million (USD)","Manager","Middle-age firm",TRUE,63.5
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Scientist","Traditional firm",FALSE,103.5
+"4.1","5001 to 10000 employees","Company - Public","Computer Hardware & Software","Information Technology","$1 to $2 billion (USD)","Engineer","Middle-age firm",FALSE,107
+"3.7","5001 to 10000 employees","Company - Public","Aerospace & Defense","Aerospace & Defense","$2 to $5 billion (USD)","Engineer","Traditional firm",FALSE,105.5
+"2.8","501 to 1000 employees","Company - Private","Insurance Carriers","Insurance","$500 million to $1 billion (USD)","Engineer","Middle-age firm",TRUE,83
+"4","1001 to 5000 employees","Company - Private","Internet","Information Technology","-1","Engineer","Middle-age firm",FALSE,162
+"3.5","1001 to 5000 employees","Company - Private","Computer Hardware & Software","Information Technology","$1 to $2 billion (USD)","Engineer","Middle-age firm",TRUE,68.5
+"3.4","10000+ employees","Company - Public","Insurance Carriers","Insurance","$5 to $10 billion (USD)","Engineer","Middle-age firm",FALSE,110.5
+"3.7","201 to 500 employees","Subsidiary or Business Segment","Insurance Carriers","Insurance","$100 to $500 million (USD)","Engineer","Traditional firm",TRUE,115.5
+"3","501 to 1000 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Scientist","Middle-age firm",TRUE,87.5
+"3.8","1001 to 5000 employees","Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","Senior","Traditional firm",TRUE,80.5
+"4.6","501 to 1000 employees","Company - Private","Lending","Finance","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,43
+"4.4","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Manager","Middle-age firm",TRUE,140
+"4","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Manager","Traditional firm",FALSE,172
+"-1","-1","Company - Private","-1","-1","-1","Senior","Traditional firm",FALSE,120
+"3","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$5 to $10 billion (USD)","Senior","Middle-age firm",TRUE,66.5
+"3","501 to 1000 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Senior","Middle-age firm",TRUE,100
+"4.7","51 to 200 employees","Company - Private","Staffing & Outsourcing","Business Services","$1 to $5 million (USD)","Engineer","Middle-age firm",FALSE,94.5
+"4.2","501 to 1000 employees","Company - Private","Health Care Services & Hospitals","Health Care","-1","Manager","Middle-age firm",TRUE,221.5
+"3.8","1001 to 5000 employees","Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","Senior","Traditional firm",FALSE,119
+"3.5","201 to 500 employees","Company - Private","Consulting","Business Services","$50 to $100 million (USD)","Engineer","Middle-age firm",TRUE,95.5
+"3.3","10000+ employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Manager","Traditional firm",FALSE,194.5
+"3.3","1001 to 5000 employees","Company - Private","Brokerage Services","Finance","$1 to $2 billion (USD)","Senior","Middle-age firm",FALSE,173
+"3.7","501 to 1000 employees","College / University","Colleges & Universities","Education","-1","Scientist","Traditional firm",TRUE,105.5
+"3.9","1001 to 5000 employees","Nonprofit Organization","Research & Development","Business Services","$500 million to $1 billion (USD)","Engineer","Traditional firm",TRUE,71.5
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Senior","Traditional firm",TRUE,74
+"3.7","10000+ employees","Company - Public","Aerospace & Defense","Aerospace & Defense","$10+ billion (USD)","Engineer","Traditional firm",FALSE,62.5
+"4.3","1001 to 5000 employees","Nonprofit Organization","Research & Development","Business Services","$500 million to $1 billion (USD)","Senior","Traditional firm",FALSE,65.5
+"3.8","10000+ employees","Company - Public","Sporting Goods Stores","Retail","$5 to $10 billion (USD)","Scientist","Traditional firm",TRUE,85
+"3.9","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,147.5
+"3.6","1001 to 5000 employees","Company - Private","Advertising & Marketing","Business Services","-1","Manager","Middle-age firm",TRUE,161.5
+"3.7","10000+ employees","Nonprofit Organization","Health Care Services & Hospitals","Health Care","$1 to $2 billion (USD)","Engineer","Traditional firm",TRUE,81
+"2.1","1001 to 5000 employees","Other Organization","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$100 to $500 million (USD)","Senior","Middle-age firm",TRUE,72.5
+"3.9","51 to 200 employees","Company - Public","Computer Hardware & Software","Information Technology","$10 to $25 million (USD)","Engineer","Middle-age firm",TRUE,139
+"3.9","201 to 500 employees","Company - Private","Internet","Information Technology","$10 to $25 million (USD)","Engineer","Middle-age firm",TRUE,136.5
+"3.2","201 to 500 employees","Company - Private","Internet","Information Technology","-1","Senior","Middle-age firm",TRUE,83
+"4.6","51 to 200 employees","Subsidiary or Business Segment","Research & Development","Business Services","$5 to $10 million (USD)","Senior","Middle-age firm",TRUE,121
+"3.8","1001 to 5000 employees","Company - Private","Travel Agencies","Travel & Tourism","$2 to $5 billion (USD)","Scientist","Middle-age firm",TRUE,74.5
+"2.2","501 to 1000 employees","Company - Private","Beauty & Personal Accessories Stores","Retail","-1","Analyst","Middle-age firm",TRUE,85.5
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Senior","Traditional firm",TRUE,80.5
+"4.6","51 to 200 employees","Subsidiary or Business Segment","Research & Development","Business Services","$5 to $10 million (USD)","Scientist","Middle-age firm",TRUE,167.5
+"2.6","501 to 1000 employees","College / University","Colleges & Universities","Education","-1","Scientist","Middle-age firm",TRUE,107.5
+"3.4","501 to 1000 employees","Nonprofit Organization","Social Assistance","Non-Profit","$25 to $50 million (USD)","Analyst","Middle-age firm",TRUE,44.5
+"3.3","1001 to 5000 employees","Company - Private","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","Senior","Traditional firm",FALSE,107.5
+"-1","-1","Company - Private","-1","-1","-1","Scientist","Traditional firm",FALSE,132.5
+"3.7","201 to 500 employees","Company - Private","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","Senior","Middle-age firm",FALSE,69.5
+"3.5","10000+ employees","Company - Public","Computer Hardware & Software","Information Technology","$10+ billion (USD)","Engineer","Middle-age firm",FALSE,98.5
+"2.7","201 to 500 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$25 to $50 million (USD)","Scientist","Traditional firm",TRUE,80.5
+"3.7","10000+ employees","Company - Public","Aerospace & Defense","Aerospace & Defense","$10+ billion (USD)","Engineer","Traditional firm",FALSE,99
+"3.8","501 to 1000 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$50 to $100 million (USD)","Manager","Middle-age firm",TRUE,96.5
+"3.3","10000+ employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Manager","Traditional firm",TRUE,53
+"2.7","1 to 50 employees","Company - Private","Enterprise Software & Network Solutions","Information Technology","-1","Engineer","Middle-age firm",TRUE,103
+"3.8","501 to 1000 employees","Company - Public","Financial Transaction Processing","Finance","$50 to $100 million (USD)","Senior","Middle-age firm",TRUE,139.5
+"3.8","1001 to 5000 employees","Government","Energy","Oil, Gas, Energy & Utilities","$500 million to $1 billion (USD)","Scientist","Traditional firm",TRUE,67
+"3","10000+ employees","Company - Public","IT Services","Information Technology","$10+ billion (USD)","Analyst","Middle-age firm",FALSE,62.5
+"3.9","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,92
+"3.6","1 to 50 employees","Company - Private","Health Care Services & Hospitals","Health Care","$10 to $25 million (USD)","Analyst","Middle-age firm",TRUE,66
+"3.5","501 to 1000 employees","Company - Private","Health Care Services & Hospitals","Health Care","-1","Engineer","Middle-age firm",TRUE,94.5
+"3.6","1001 to 5000 employees","Company - Private","Advertising & Marketing","Business Services","-1","Scientist","Middle-age firm",TRUE,114
+"4.2","51 to 200 employees","Company - Private","Education Training Services","Education","-1","Scientist","Middle-age firm",TRUE,75.5
+"3.5","1 to 50 employees","School / School District","K-12 Education","Education","$5 to $10 million (USD)","Scientist","Traditional firm",FALSE,96
+"4","501 to 1000 employees","Company - Public","Aerospace & Defense","Aerospace & Defense","$100 to $500 million (USD)","Scientist","Traditional firm",FALSE,87
+"3.7","201 to 500 employees","Company - Private","IT Services","Information Technology","$25 to $50 million (USD)","Scientist","Middle-age firm",FALSE,86
+"4.4","1 to 50 employees","Company - Private","Internet","Information Technology","-1","Senior","Middle-age firm",TRUE,116.5
+"3.5","1001 to 5000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$1 to $2 billion (USD)","Senior","Middle-age firm",TRUE,154.5
+"3.6","1001 to 5000 employees","Company - Private","Gambling","Arts, Entertainment & Recreation","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,48.5
+"3.7","501 to 1000 employees","Company - Public","Stock Exchanges","Finance","$500 million to $1 billion (USD)","Scientist","Middle-age firm",FALSE,87
+"3.4","501 to 1000 employees","Company - Private","IT Services","Information Technology","$1 to $2 billion (USD)","Engineer","Middle-age firm",FALSE,80
+"3.7","10000+ employees","Company - Public","Aerospace & Defense","Aerospace & Defense","$10+ billion (USD)","Scientist","Traditional firm",FALSE,173
+"2.4","501 to 1000 employees","Company - Private","Food & Beverage Manufacturing","Manufacturing","$100 to $500 million (USD)","Scientist","Traditional firm",FALSE,52.5
+"3.5","501 to 1000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Engineer","Middle-age firm",FALSE,68.5
+"3.9","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,95
+"3.2","5001 to 10000 employees","Nonprofit Organization","Federal Agencies","Government","$1 to $2 billion (USD)","Engineer","Traditional firm",TRUE,69.5
+"4.4","201 to 500 employees","Subsidiary or Business Segment","Metals Brokers","Mining & Metals","-1","Senior","Traditional firm",TRUE,107
+"3.9","501 to 1000 employees","Company - Private","IT Services","Information Technology","$100 to $500 million (USD)","Senior","Middle-age firm",FALSE,112
+"3.4","51 to 200 employees","Company - Private","Consulting","Business Services","$10 to $25 million (USD)","Scientist","Middle-age firm",FALSE,96.5
+"2.1","201 to 500 employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$25 to $50 million (USD)","Scientist","Traditional firm",TRUE,111.5
+"3.7","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Engineer","Traditional firm",FALSE,154.5
+"3.4","201 to 500 employees","Company - Private","Health Care Services & Hospitals","Health Care","-1","Scientist","Middle-age firm",FALSE,95
+"4","501 to 1000 employees","Company - Private","Consumer Product Rental","Consumer Services","-1","Scientist","Middle-age firm",TRUE,97.5
+"4.4","201 to 500 employees","Company - Private","Consulting","Business Services","$50 to $100 million (USD)","Senior","Middle-age firm",TRUE,128.5
+"2.6","501 to 1000 employees","College / University","Colleges & Universities","Education","-1","Senior","Middle-age firm",TRUE,124
+"3.2","501 to 1000 employees","Subsidiary or Business Segment","Enterprise Software & Network Solutions","Information Technology","-1","Scientist","Middle-age firm",TRUE,194
+"4.2","10000+ employees","Nonprofit Organization","Religious Organizations","Non-Profit","-1","Analyst","Traditional firm",TRUE,50
+"3.5","201 to 500 employees","Company - Public","Advertising & Marketing","Business Services","-1","Scientist","Middle-age firm",TRUE,104.5
+"4.3","201 to 500 employees","Company - Private","IT Services","Information Technology","$50 to $100 million (USD)","Scientist","Middle-age firm",FALSE,69.5
+"2.6","10000+ employees","Company - Private","Colleges & Universities","Education","-1","Scientist","Middle-age firm",TRUE,121
+"4.2","201 to 500 employees","Company - Private","IT Services","Information Technology","-1","Engineer","Middle-age firm",FALSE,85.5
+"3.1","1001 to 5000 employees","Company - Public","Video Games","Media","$10+ billion (USD)","Engineer","Middle-age firm",FALSE,113
+"3.8","201 to 500 employees","Subsidiary or Business Segment","Consumer Products Manufacturing","Manufacturing","$25 to $50 million (USD)","Scientist","Middle-age firm",FALSE,103
+"3.9","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Scientist","Traditional firm",FALSE,90.5
+"4.3","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","-1","Senior","Middle-age firm",TRUE,153
+"3.2","5001 to 10000 employees","Nonprofit Organization","Federal Agencies","Government","$1 to $2 billion (USD)","Scientist","Traditional firm",FALSE,106.5
+"5","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","-1","Senior","Middle-age firm",TRUE,130
+"3.3","1001 to 5000 employees","Company - Public","Consulting","Business Services","$2 to $5 billion (USD)","Analyst","Middle-age firm",TRUE,123.5
+"4.3","1001 to 5000 employees","Company - Public","Enterprise Software & Network Solutions","Information Technology","$500 million to $1 billion (USD)","Scientist","Middle-age firm",TRUE,86.5
+"3.5","501 to 1000 employees","Nonprofit Organization","Health Care Services & Hospitals","Health Care","$500 million to $1 billion (USD)","Manager","Middle-age firm",TRUE,64
+"3.9","201 to 500 employees","Company - Private","Internet","Information Technology","$10 to $25 million (USD)","Analyst","Middle-age firm",TRUE,47
+"4","10000+ employees","Company - Public","Computer Hardware & Software","Information Technology","$5 to $10 billion (USD)","Engineer","Middle-age firm",TRUE,162
+"3.9","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Traditional firm",FALSE,140
+"3.4","51 to 200 employees","Company - Private","IT Services","Information Technology","$5 to $10 million (USD)","Scientist","Traditional firm",FALSE,89
+"3","10000+ employees","Company - Private","Gas Stations","Retail","$10+ billion (USD)","Engineer","Traditional firm",TRUE,98
+"3.9","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Traditional firm",FALSE,137
+"4","501 to 1000 employees","Nonprofit Organization","Insurance Carriers","Insurance","$500 million to $1 billion (USD)","Engineer","Traditional firm",TRUE,99
+"3.3","501 to 1000 employees","Company - Private","Food & Beverage Manufacturing","Manufacturing","-1","Scientist","Traditional firm",TRUE,54
+"3.2","1001 to 5000 employees","Company - Private","Health Care Services & Hospitals","Health Care","-1","Engineer","Middle-age firm",FALSE,109
+"3.4","201 to 500 employees","Company - Private","IT Services","Information Technology","$25 to $50 million (USD)","Engineer","Middle-age firm",FALSE,109
+"4.4","1001 to 5000 employees","Company - Private","Computer Hardware & Software","Information Technology","$1 to $2 billion (USD)","Senior","Middle-age firm",TRUE,139.5
+"3.3","10000+ employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Manager","Traditional firm",FALSE,254
+"3.2","1001 to 5000 employees","Company - Private","Computer Hardware & Software","Information Technology","-1","Scientist","Middle-age firm",TRUE,125
+"3.8","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Middle-age firm",FALSE,106.5
+"2.9","201 to 500 employees","Subsidiary or Business Segment","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Scientist","Middle-age firm",FALSE,73
+"2.7","201 to 500 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$25 to $50 million (USD)","Scientist","Traditional firm",TRUE,81
+"3.2","1 to 50 employees","Company - Private","Staffing & Outsourcing","Business Services","$5 to $10 million (USD)","Scientist","Traditional firm",FALSE,128.5
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Scientist","Traditional firm",TRUE,99.5
+"4","501 to 1000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Senior","Middle-age firm",FALSE,92
+"3.3","501 to 1000 employees","Company - Private","Insurance Carriers","Insurance","$500 million to $1 billion (USD)","Analyst","Middle-age firm",TRUE,45.5
+"4.5","51 to 200 employees","Company - Private","Consulting","Business Services","$25 to $50 million (USD)","Engineer","Middle-age firm",TRUE,122.5
+"3","1001 to 5000 employees","Subsidiary or Business Segment","Enterprise Software & Network Solutions","Information Technology","$100 to $500 million (USD)","Analyst","Middle-age firm",TRUE,37.5
+"3.7","5001 to 10000 employees","Company - Public","Insurance Carriers","Insurance","$5 to $10 billion (USD)","Analyst","Traditional firm",TRUE,54
+"3.8","1001 to 5000 employees","Company - Private","Travel Agencies","Travel & Tourism","$2 to $5 billion (USD)","Analyst","Middle-age firm",TRUE,53.5
+"3.9","5001 to 10000 employees","Company - Public","Financial Analytics & Research","Finance","$1 to $2 billion (USD)","Senior","Traditional firm",TRUE,140
+"3.2","5001 to 10000 employees","Nonprofit Organization","Federal Agencies","Government","$1 to $2 billion (USD)","Engineer","Traditional firm",FALSE,77.5
+"3.1","5001 to 10000 employees","Company - Private","Consumer Products Manufacturing","Manufacturing","$10+ billion (USD)","Senior","Traditional firm",TRUE,117.5
+"2.4","501 to 1000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$50 to $100 million (USD)","Scientist","Middle-age firm",TRUE,70.5
+"4.8","51 to 200 employees","Company - Private","Computer Hardware & Software","Information Technology","$25 to $50 million (USD)","Manager","Middle-age firm",TRUE,61.5
+"2.9","1001 to 5000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Senior","New firm",FALSE,80
+"2.9","1001 to 5000 employees","Company - Private","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","-1","Scientist","New firm",FALSE,70
+"-1","-1","Company - Private","-1","-1","-1","Scientist","Traditional firm",FALSE,120
+"3.4","1001 to 5000 employees","Company - Private","Insurance Carriers","Insurance","$100 to $500 million (USD)","Engineer","Middle-age firm",TRUE,90
+"4.1","1 to 50 employees","Company - Private","K-12 Education","Education","-1","Scientist","Middle-age firm",TRUE,111
+"3.9","51 to 200 employees","Company - Public","Computer Hardware & Software","Information Technology","-1","Senior","Middle-age firm",TRUE,138.5
+"3.6","5001 to 10000 employees","Company - Private","Insurance Carriers","Insurance","$10+ billion (USD)","Manager","Traditional firm",FALSE,68.5
+"3.9","201 to 500 employees","Company - Private","Internet","Information Technology","$100 to $500 million (USD)","Engineer","Middle-age firm",TRUE,87.5
+"3.6","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$2 to $5 billion (USD)","Analyst","New firm",FALSE,111.5
+"3.9","10000+ employees","Company - Public","Biotech & Pharmaceuticals","Biotech & Pharmaceuticals","$10+ billion (USD)","Senior","Traditional firm",FALSE,84.5
+"4.4","1001 to 5000 employees","Company - Public","Internet","Information Technology","$100 to $500 million (USD)","Engineer","Middle-age firm",FALSE,102.5
+"2.6","501 to 1000 employees","College / University","Colleges & Universities","Education","-1","Scientist","Middle-age firm",TRUE,73.5
+"3.2","1 to 50 employees","Company - Private","Staffing & Outsourcing","Business Services","$5 to $10 million (USD)","Manager","Traditional firm",FALSE,127.5
+"3.6","501 to 1000 employees","Nonprofit Organization","Federal Agencies","Government","$50 to $100 million (USD)","Scientist","Traditional firm",FALSE,93.5
